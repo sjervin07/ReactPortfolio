@@ -21,7 +21,7 @@ class Projects extends Component {
 
     <Cell col={4}></Cell>
       <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
-      <CardTitle expand style={{color: '#fff', background: 'url() bottom right 15% no-repeat #46B6AC'}}>Notepad</CardTitle>
+      <CardTitle expand style={{color: '#fff', background: 'url() bottom right 15% no-repeat #46B6AC'}}>Workout Tracker</CardTitle>
       <CardText>
           This workout tracker utilizes MongoDB Atlas to start workouts and track them instance by instance.
       </CardText>
