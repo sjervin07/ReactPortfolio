@@ -9,7 +9,7 @@ class Projects extends Component {
 
       <Cell col={4}></Cell>
       <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
-      <CardTitle expand style={{color: '#fff', background: 'url() bottom right 15% no-repeat #46B6AC'}}>BurgerApp</CardTitle>
+      <CardTitle expand style={{color: '#fff', background: 'url(https://lh3.googleusercontent.com/swsZDo4JtdliY4UklMTJAEkJPb4XsCrcdlaUjgauEW_ndVb7I6D824Qq_08IwQSEUKmr9g=s118) bottom right 15% no-repeat #46B6AC'}}>BurgerApp</CardTitle>
       <CardText>
           Web application using handlebars and MySql.
       </CardText>
@@ -23,11 +23,11 @@ class Projects extends Component {
       <Card shadow={0} style={{width: '320px', height: '320px', margin: 'auto'}}>
       <CardTitle expand style={{color: '#fff', background: 'url() bottom right 15% no-repeat #46B6AC'}}>Notepad</CardTitle>
       <CardText>
-          Notepad app that allows user to post, save and delete their notes.
+          This workout tracker utilizes MongoDB Atlas to start workouts and track them instance by instance.
       </CardText>
       <CardActions border>
-          <Button href="https://github.com/sjervin07/Note_Taker.git" colored>Github</Button>
-          <Button href="https://vast-escarpment-19295.herokuapp.com/" colored>Deployed App</Button>
+          <Button href="https://github.com/sjervin07/Workout_Tracker.git" colored>Github</Button>
+          <Button href="https://workout-tracker-shannon.herokuapp.com/" colored>Deployed App</Button>
       </CardActions>
     </Card>
 
