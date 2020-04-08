@@ -1,1 +1,1 @@
-# ReactPortfolio
+A Full-Stack Web Development portfolio created using React App. Features components, app.jss, reacter router dom and react mdl.
